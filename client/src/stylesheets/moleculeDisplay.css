@@ -1,0 +1,17 @@
+
+/*Styling the molecule object received from the backend*/
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+p {
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+}
